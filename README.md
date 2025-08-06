@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 # 4. Jalankan aplikasi
 uvicorn main:app --reload
+```
 
 ---
 
